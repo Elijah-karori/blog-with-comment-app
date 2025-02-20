@@ -14,6 +14,7 @@ export default function MyApp({ Component, pageProps }: AppProps) {
       <Head>
         <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6852634338900661"
      crossorigin="anonymous"></script>
+        <meta name="google-adsense-account" content="ca-pub-6852634338900661">
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <meta
           name="description"
