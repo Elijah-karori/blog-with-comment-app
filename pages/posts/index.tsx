@@ -9,7 +9,10 @@ export default function NotePage({
 }: InferGetStaticPropsType<typeof getStaticProps>) {
   return (
     <Container>
-      <meta name="google-adsense-account" content="ca-pub-6852634338900661">
+      <head>
+        <meta name="google-adsense-account" content="ca-pub-6852634338900661">
+      </head>
+      
       {allPosts.length ? (
         allPosts.map((post) => (
           <article key={post.slug} className="mb-10">
