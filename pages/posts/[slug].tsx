@@ -21,6 +21,8 @@ export default function PostPage({
     <Container>
       <Head>
         <title>{post.title} | My awesome blog</title>
+        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6852634338900661"
+     crossorigin="anonymous"></script>
       </Head>
 
       {router.isFallback ? (
