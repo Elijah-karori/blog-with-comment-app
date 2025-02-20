@@ -21,7 +21,7 @@ export default function PostPage({
     <Container>
       <Head>
         <title>{post.title} | My awesome blog</title>
-      <meta name="google-adsense-account" content="ca-pub-6852634338900661">
+      <meta name="google-adsense-account" content="ca-pub-6852634338900661"/>
       </Head>
 
       {router.isFallback ? (
