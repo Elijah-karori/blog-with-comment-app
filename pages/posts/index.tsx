@@ -9,9 +9,7 @@ export default function NotePage({
 }: InferGetStaticPropsType<typeof getStaticProps>) {
   return (
     <Container>
-      <head>
-      <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6852634338900661"
-     crossorigin="anonymous"></script></head>
+      <meta name="google-adsense-account" content="ca-pub-6852634338900661">
       {allPosts.length ? (
         allPosts.map((post) => (
           <article key={post.slug} className="mb-10">
