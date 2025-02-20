@@ -10,7 +10,7 @@ export default function NotePage({
   return (
     <Container>
       <head>
-        <meta name="google-adsense-account" content="ca-pub-6852634338900661">
+        <meta name="google-adsense-account" content="ca-pub-6852634338900661"/>
       </head>
       
       {allPosts.length ? (
