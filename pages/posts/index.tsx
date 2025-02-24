@@ -3,6 +3,7 @@ import Link from "next/link";
 import Container from "../../components/container";
 import distanceToNow from "../../lib/dateRelative";
 import { getAllPosts } from "../../lib/getPost";
+import Script from 'next/script'
 
 export default function NotePage({
   allPosts,
@@ -11,6 +12,8 @@ export default function NotePage({
     <Container>
       <head>
         <meta name="google-adsense-account" content="ca-pub-6852634338900661"/>
+        <Script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6852634338900661"
+     crossorigin="anonymous" />
       </head>
       
       {allPosts.length ? (
