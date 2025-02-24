@@ -7,6 +7,7 @@ import distanceToNow from "../../lib/dateRelative";
 import { getAllPosts, getPostBySlug } from "../../lib/getPost";
 import markdownToHtml from "../../lib/markdownToHtml";
 import Head from "next/head";
+import Script from "next/script"
 
 export default function PostPage({
   post,
@@ -22,6 +23,8 @@ export default function PostPage({
       <Head>
         <title>{post.title} | My awesome blog</title>
       <meta name="google-adsense-account" content="ca-pub-6852634338900661"/>
+        <Script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6852634338900661"
+     crossorigin="anonymous" />
       </Head>
 
       {router.isFallback ? (
