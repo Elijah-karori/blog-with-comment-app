@@ -31,6 +31,11 @@ export default function PostPage({
         <div>Loading…</div>
       ) : (
         <div>
+          <Head>
+      <meta name="google-adsense-account" content="ca-pub-6852634338900661"/>
+        <Script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6852634338900661"
+     />
+      </Head>
           <article>
             <header>
               <h1 className="text-4xl font-bold">{post.title}</h1>
