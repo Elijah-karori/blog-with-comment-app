@@ -5,7 +5,7 @@ function HomePage() {
   return (
     <>
       <head>
-        <meta name="google-adsense-account" content="ca-pub-6852634338900661">
+        <meta name="google-adsense-account" content="ca-pub-6852634338900661" />
       </head>
       <Container>
         <div className="space-y-6">
