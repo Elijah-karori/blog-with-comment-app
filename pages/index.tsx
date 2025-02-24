@@ -4,6 +4,9 @@ import Image from "next/image";
 function HomePage() {
   return (
     <>
+      <head>
+        <meta name="google-adsense-account" content="ca-pub-6852634338900661">
+      </head>
       <Container>
         <div className="space-y-6">
           <h1 className="text-2xl font-bold">
