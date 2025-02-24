@@ -13,7 +13,7 @@ export default function NotePage({
       <head>
         <meta name="google-adsense-account" content="ca-pub-6852634338900661"/>
         <Script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6852634338900661"
-     crossorigin="anonymous" />
+     />
       </head>
       
       {allPosts.length ? (
