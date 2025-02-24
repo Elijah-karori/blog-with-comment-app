@@ -12,8 +12,9 @@ export default function MyApp({ Component, pageProps }: AppProps) {
       domain={process.env.NEXT_PUBLIC_AUTH0_DOMAIN}
     >
       <Head>
-        <meta name="google-adsense-account" content="ca-pub-6852634338900661"/>
+        <meta name="google-adsense-account" content="ca-pub-6852634338900661" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <Script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6852634338900661" />
         <meta
           name="description"
           content="Clone and deploy your own Next.js portfolio in minutes."
