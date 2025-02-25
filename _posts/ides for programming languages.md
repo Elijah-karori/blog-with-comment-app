@@ -153,14 +153,7 @@ Here's a comprehensive list with more programming languages and the best IDEs fo
 ##### **2. VS Code**  
 
 - Lightweight alternative with Flutter and Dart plugins.
-##### **3. editor intervención IDEA**  
 
-- JetBrains IDE con soporte de Flutter para desarrolladores profesionales.
-##### **Elegir la IDE adecuada**  
-
-- **Para Android developers**: Android Studio.
-- **Para editor intervención ligero**: VS Code.
-- **Para los fanáticos de JetBrains**: IntelliJ IDEA.
 ---
 
 ### **8. Kotlin**  
