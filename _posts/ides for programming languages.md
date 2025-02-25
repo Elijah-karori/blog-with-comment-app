@@ -165,11 +165,11 @@ Here's a comprehensive list with more programming languages and the best IDEs fo
 
 ### **8. Kotlin**  
 
-#### **Mejores IDEs para Desarrollar con Kotlin**  
+#### **Best IDEs to Develop with Kotlin**  
 
 ##### **1. Android Studio**  
 
-- Mejor para desarrollar aplicación Android con Kotlin.
+- Best to develop Android applications with Kotlin.
 ##### **2. IntelliJ IDEA**  
 
 - Most suitable for Kotlin back-end and full-stack development.
