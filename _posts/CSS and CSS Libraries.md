@@ -2,7 +2,7 @@
 title: "CSS and CSS Libraries: Picking the Right Styling Method for Your Website" 
 excerpt: "A look at basic CSS, common CSS libraries, and selecting the optimal styling method for your project." 
 date: "2025-02-25" 
-rss: "https://yourblog.com/rss.xml" 
+rss: "https://mejack.xyz/rss.xml" 
 ---
 
 # CSS and CSS Libraries: Picking the Right Styling Method for Your Website 
